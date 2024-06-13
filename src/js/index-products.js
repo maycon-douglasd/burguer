@@ -4,7 +4,7 @@ const menuOptions = [
     
     { name: 'X-Bacon', price: 30, vegan: false, src: './src/img/xbacon.png' },
     
-    { name: 'X-Bacon Egg', price: 38.99, vegan: false, src: '/src/img/bacon-egg.png' },
+    { name: 'X-Bacon Egg', price: 38.99, vegan: false, src: './src/img/bacon-egg.png' },
     
     { name: 'Monstruoso', price: 37.50, vegan: false, src: './src/img/monstruoso.png' },
     
